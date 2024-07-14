@@ -1,0 +1,2 @@
+JDA=https://github.com/discord-jda/JDA/releases/download/v5.0.0/JDA-5.0.0-withDependencies.jar
+LIBDBM=https://drive.usercontent.google.com/download?id=1PiRSqciHHh70VQhmo5L9bem4WIAxXLXc&export=download&authuser=0&confirm=t&uuid=d428e3be-b006-42d3-8f1b-0af240a50587&at=APZUnTXlyDIld0VaqflnOjPpt0rJ%3A1710419706366
