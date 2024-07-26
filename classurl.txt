@@ -1,2 +1,1 @@
-JDA=https://github.com/discord-jda/JDA/releases/download/v5.0.0/JDA-5.0.0-withDependencies.jar|e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
-LIBDBM=https://github.com/DiscBotMaker/libdbm/releases/download/v1/libdbm.jar|9ad5951c67f995bca3621174f9bb723664732aa31b98f3e3c3047d2471e78c9d
+JDA=https://github.com/discord-jda/JDA/releases/download/v5.0.0/JDA-5.0.0-withDependencies.jar|LIBDBM=https://github.com/DiscBotMaker/libdbm/releases/download/v1/libdbm.jar
