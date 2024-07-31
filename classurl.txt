@@ -1,1 +1,0 @@
-JDA=https://github.com/discord-jda/JDA/releases/download/v5.0.0/JDA-5.0.0-withDependencies.jar|LIBDBM=https://github.com/DiscBotMaker/libstd/releases/download/v1/libstd.jar
