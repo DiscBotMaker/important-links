@@ -5,4 +5,4 @@ jda:
 stdlib:
   version: "1"
   filename: "lib/stdlib1.jar"
-  url: "https://github.com/discord-jda/JDA/releases/download/v5.0.0/JDA-5.0.0-withDependencies.jar"
+  url: "https://github.com/DiscBotMaker/libstd/releases/download/v1/libstd.jar"
