@@ -1,6 +1,5 @@
-info:
-  version_string: "1.1-RELEASE"
-  version_type: "RELEASE"
-  native_stdlib: "2"
-  native_libjda: "5.0.1"
-  authors: "noerlol"
+version_string: "1.1-RELEASE"
+version_type: "RELEASE"
+native_stdlib: "2"
+native_libjda: "5.0.1"
+authors: "noerlol"
