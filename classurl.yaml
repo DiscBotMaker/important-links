@@ -1,7 +1,7 @@
 jda:
-  version: "5.0.1"
+  version: "5.1.0"
   filename: "lib/libjda5.jar"
-  url: "https://github.com/discord-jda/JDA/releases/download/v5.0.1/JDA-5.0.1-withDependencies.jar"
+  url: "https://github.com/discord-jda/JDA/releases/download/v5.1.0/JDA-5.1.0-withDependencies.jar"
 stdlib:
   version: "2"
   filename: "lib/stdlib2.jar"
